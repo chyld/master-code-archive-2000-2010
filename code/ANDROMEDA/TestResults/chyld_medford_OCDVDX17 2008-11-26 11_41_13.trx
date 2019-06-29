@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="807843ce-21af-40c6-8290-9a2d0de80987" name="chyld_medford@OCDVDX17 2008-11-26 11:41:13" runUser="OCINTERNAL\chyld_medford" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b9f6aa56-4d70-400c-8a64-0ce359926950">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\TestResults\chyld_medford_OCDVDX17 2008-11-26 11_41_13" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2008-11-26T11:41:13.4637177-06:00" queuing="2008-11-26T11:41:17.9795450-06:00" start="2008-11-26T11:41:18.8233328-06:00" finish="2008-11-26T11:41:21.0421822-06:00" />
+  <TestDefinitions>
+    <UnitTest name="TestBoxOfficeWebService" storage="c:\documents and settings\chyld_medford\my documents\visual studio 2008\projects\andromeda\testing\bin\debug\testing.dll" id="cafa5fdb-e86b-86fd-a366-3b8e6cb5cb70">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="764c9fe3-6c57-4738-b4ff-5a2532121c06" />
+      <TestMethod codeBase="C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\bin\Debug\Testing.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Cingulariti.ANDROMEDA.Testing.UnitTest, Testing" name="TestBoxOfficeWebService" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cafa5fdb-e86b-86fd-a366-3b8e6cb5cb70" executionId="764c9fe3-6c57-4738-b4ff-5a2532121c06" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="764c9fe3-6c57-4738-b4ff-5a2532121c06" testId="cafa5fdb-e86b-86fd-a366-3b8e6cb5cb70" testName="TestBoxOfficeWebService" computerName="OCDVDX17" duration="00:00:00.0159229" startTime="2008-11-26T11:41:19.1827239-06:00" endTime="2008-11-26T11:41:20.7609196-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

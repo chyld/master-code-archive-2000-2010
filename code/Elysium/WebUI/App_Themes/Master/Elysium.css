@@ -1,0 +1,66 @@
+﻿*
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #363636;
+	letter-spacing: 1px;
+}
+
+body
+{
+	background-color: #DDDDDD;
+}
+
+/* ELYSIUM
+   --------------------------------------------------------------------------------------------- */
+.elysium
+{
+}
+
+/* HEADER
+   --------------------------------------------------------------------------------------------- */
+.header
+{
+	padding: 25px 10px 25px 10px;
+	background: #000000 url('../../Images/tile.jpg') repeat-x scroll top left;
+	border-bottom: solid 2px #890000;
+}
+
+/* NAV
+   --------------------------------------------------------------------------------------------- */
+.nav
+{
+	background-color: #FFFFFF;
+	padding: 0px 10px 0px 10px;
+	border-bottom: double 3px #890000;
+}
+
+.nav td
+{
+	padding: 0px 25px 0px 0px;
+	height: 35px;
+}
+
+/* MAIN
+   --------------------------------------------------------------------------------------------- */
+.main
+{
+	background-color: #FFFFFF;
+	padding: 20px 10px 10px 10px;
+}
+
+/* FOOTER
+   --------------------------------------------------------------------------------------------- */
+.footer
+{
+	color: #363636;
+	border-top: solid 2px #890000;
+	height: 50px;
+	padding: 10px;
+}

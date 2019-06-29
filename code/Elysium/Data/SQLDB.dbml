@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="SQL2005_483471_triniti" EntityNamespace="Chyld.Elysium.Data" ContextNamespace="Chyld.Elysium.Data" Class="ElysiumDB" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=tcp:sql2k513.discountasp.net;Initial Catalog=SQL2005_483471_triniti;Persist Security Info=True;User ID=SQL2005_483471_triniti_user" SettingsObjectName="Data.Properties.Settings" SettingsPropertyName="SQL2005_483471_trinitiConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Elysium_User" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="UserId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_User_Elysium_Section" Member="Sections" OtherKey="UserId" Type="Section" />
+      <Association Name="Elysium_User_Elysium_Notebook" Member="Notebooks" OtherKey="UserId" Type="Notebook" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Elysium_Style" Member="Facades">
+    <Type Name="Facade">
+      <Column Name="StyleId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FontId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Size" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Spacing" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Color" Type="System.String" DbType="NChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="IsBold" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsItalic" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsUnderline" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_Style_Elysium_Section" Member="Sections" OtherKey="StyleId" Type="Section" />
+      <Association Name="Elysium_Font_Elysium_Style" Member="Font" ThisKey="FontId" Type="Font" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Elysium_Section" Member="Sections">
+    <Type Name="Section">
+      <Column Name="SectionId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StyleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_Section_Elysium_Calendar" Member="Agendas" OtherKey="SectionId" Type="Agenda" />
+      <Association Name="Elysium_Style_Elysium_Section" Member="Facade" ThisKey="StyleId" Type="Facade" IsForeignKey="true" />
+      <Association Name="Elysium_User_Elysium_Section" Member="Customer" ThisKey="UserId" Type="Customer" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Elysium_Notebook" Member="Notebooks">
+    <Type Name="Notebook">
+      <Column Name="NotebookId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Value" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_User_Elysium_Notebook" Member="Customer" ThisKey="UserId" Type="Customer" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Elysium_Font" Member="Fonts">
+    <Type Name="Font">
+      <Column Name="FontId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_Font_Elysium_Style" Member="Facades" OtherKey="FontId" Type="Facade" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Elysium_Calendar" Member="Agendas">
+    <Type Name="Agenda">
+      <Column Name="CalendarId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SectionId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Day" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Value" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Elysium_Section_Elysium_Calendar" Member="Section" ThisKey="SectionId" Type="Section" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

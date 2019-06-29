@@ -1,0 +1,45 @@
+﻿.notebook td
+{
+	border: dashed 1px #008000;
+	color: #363636;
+	padding: 10px;
+}
+
+.notebookcontrols
+{
+	background-color: #DDDDDD;
+}
+
+.notebook .leftcontrol
+{
+	float: left;
+	padding-right: 10px;
+}
+
+.notebook .rightcontrol
+{
+	float: right;
+}
+
+.notebook input[type="text"]
+{
+	width: 200px;
+	color: #0000C0;
+}
+
+.notebook select
+{
+	width: 200px;
+}
+
+.notebook option, .notebook select
+{
+	color: #C00000;
+}
+
+.notebook textarea
+{
+	overflow: auto;
+	border: solid 1px #FFFFFF;
+	width: 500px;
+}

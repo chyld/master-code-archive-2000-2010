@@ -1,0 +1,25 @@
+﻿<Window x:Class="FileRename.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Clean v1.7" Height="450" Width="300" ResizeMode="NoResize">
+    <StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Label Content=".File .Clean" Margin="25" Name="labelTitle" FontSize="25" Foreground="CornflowerBlue" FontFamily="Algerian" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Button FontFamily="Consolas" FontSize="11" Content="Standard" Margin="10" Padding="25" Name="buttonStandard" Click="buttonStandard_Click" Foreground="White" Background="DodgerBlue" BorderBrush="Gray" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Button FontFamily="Consolas" FontSize="11" Content="Recursive" Margin="10" Padding="25" Name="buttonRecursive" Click="buttonRecursive_Click" Foreground="White" Background="Crimson" BorderBrush="Gray" />
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" >
+            <TextBox FontFamily="Consolas" FontSize="11" Margin="10" Name="textboxNewDate" Text="mm/dd/yyyy" />
+            <Button FontFamily="Consolas" FontSize="11" Content="New Date" Margin="10" Padding="25" Name="buttonNewDate" Click="buttonNewDate_Click" Foreground="White" Background="LawnGreen" BorderBrush="Gray" />
+        </StackPanel>
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,9 @@
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\Business.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\Business.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\HtmlParser.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\HtmlAgilityPack.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\HtmlAgilityPack.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\bin\Release\HtmlParser.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\obj\Release\Business.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\Business\obj\Release\Business.pdb

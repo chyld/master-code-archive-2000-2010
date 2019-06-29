@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4decf37a-07d4-4ad7-962d-48fa4673e072" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1298/BoxOffice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BoxOffice.disco" MetadataType="Disco" ID="a94765a6-0958-490b-b3b5-b5d00e97b645" SourceId="1" SourceUrl="http://localhost:1298/BoxOffice.svc?disco" />
+    <MetadataFile FileName="BoxOffice.xsd" MetadataType="Schema" ID="d74b8bb1-0e89-43f2-83b7-777208c0e774" SourceId="1" SourceUrl="http://localhost:1298/BoxOffice.svc?xsd=xsd0" />
+    <MetadataFile FileName="BoxOffice.wsdl" MetadataType="Wsdl" ID="9e37b8f6-8793-4e55-8cd9-33254b2930fc" SourceId="1" SourceUrl="http://localhost:1298/BoxOffice.svc?wsdl" />
+    <MetadataFile FileName="BoxOffice1.xsd" MetadataType="Schema" ID="e79ff6b8-a225-49c5-b3e3-7e90ee91635e" SourceId="1" SourceUrl="http://localhost:1298/BoxOffice.svc?xsd=xsd2" />
+    <MetadataFile FileName="BoxOffice2.xsd" MetadataType="Schema" ID="b6e30a5d-0c8a-4137-b553-424ac7aec8e0" SourceId="1" SourceUrl="http://localhost:1298/BoxOffice.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

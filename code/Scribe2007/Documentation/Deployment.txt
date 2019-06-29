@@ -1,0 +1,17 @@
+-Delete the application from IIS
+-Delete files on the server
+-Connect to SQL using Management Studio and re-init DB with script
+-Compile RELEASE code
+-Check web.config for debug=false
+-Use Build->Publish Scribe to get minimum required file (check the /bin dir)
+-Using FTP binary-transfer the following files:
+  - .aspx and .cs code-behind
+  - /bin/*.dll files
+  - theme dir
+  - temp dir
+  
+  - Create new app on IIS
+  - Restart IIS
+  
+  - Test
+  

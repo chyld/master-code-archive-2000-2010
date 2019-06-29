@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\MbUnit\MbUnit.GUI.exe</StartProgram>
+    <StartWorkingDirectory>C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2005\Projects\Scribe2007\Testing\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="false" Service="Cingulariti.ANDROMEDA.BoxOffice.BoxOffice" CodeBehind="BoxOffice.svc.cs" %>

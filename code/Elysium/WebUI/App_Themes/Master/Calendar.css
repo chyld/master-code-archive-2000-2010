@@ -1,0 +1,127 @@
+﻿.calendar
+{
+}
+
+.calendar select
+{
+	width: 120px;
+}
+
+.dateheader
+{
+	background-color: #FFFF66;
+	border: solid 1px #CCCC00;
+	color: #C00000;
+	padding: 4px 5px 4px 5px;
+}
+
+.datetext
+{
+	float: left;
+	color: #FFFFFF;
+}
+
+.datetext span
+{
+	color: #FFFFFF;
+}
+
+.datebutton
+{
+	float: right;
+}
+
+.date
+{
+	padding: 2px 5px 2px 5px;
+}
+
+.date.weekday.past
+{
+	background-color: #C0C0C0;
+	border: 1px solid #808080;
+}
+
+.date.weekend.past
+{
+	background-color: #808080;
+	border: 1px solid #696969;
+}
+
+.date.weekday.present
+{
+	background-color: #555184;
+	border: 1px solid #484470;
+}
+
+.date.weekend.present
+{
+	background-color: #CF593D;
+	border: 1px solid #BB5037;
+}
+
+.date.weekday.present.today, .date.weekend.present.today
+{
+	background-color: #669B48;
+	border: 1px solid #446830;
+}
+
+.date.weekday.future
+{
+	background-color: #D8D6A1;
+	border: 1px solid #A5A37B;
+}
+
+.date.weekend.future
+{
+	background-color: #9EABB8;
+	border: 1px solid #8C98A4;
+}
+
+.content, .calendar textarea
+{
+	height: 100px;
+	width: 145px;
+	overflow: auto;
+	padding: 5px;
+}
+
+.record
+{
+	margin-bottom: 5px;
+}
+
+.data.weekday.past
+{
+	border: 1px dashed #808080;
+}
+
+.data.weekend.past
+{
+	border: 1px dashed #696969;
+}
+
+.data.weekday.present
+{
+	border: 1px dashed #484470;
+}
+
+.data.weekend.present
+{
+	border: 1px dashed #BB5037;
+}
+
+.data.weekday.present.today, .data.weekend.present.today
+{
+	border: 1px dashed #446830;
+}
+
+.data.weekday.future
+{
+	border: 1px dashed #A5A37B;
+}
+
+.data.weekend.future
+{
+	border: 1px dashed #8C98A4;
+}

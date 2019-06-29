@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presence", "Presence\Presence.csproj", "{F82DFF6A-EE4B-4E82-A759-73548CF3C382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries", "Libraries\Libraries.csproj", "{8402B20D-FC3D-4C19-86E3-4E79759F18EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82DFF6A-EE4B-4E82-A759-73548CF3C382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82DFF6A-EE4B-4E82-A759-73548CF3C382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82DFF6A-EE4B-4E82-A759-73548CF3C382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82DFF6A-EE4B-4E82-A759-73548CF3C382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8402B20D-FC3D-4C19-86E3-4E79759F18EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8402B20D-FC3D-4C19-86E3-4E79759F18EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Extension\bin\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Extension\bin\Release\Extension.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Extension\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Extension\obj\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Extension\obj\Release\Extension.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Extension\bin\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Extension\bin\Release\Extension.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Extension\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Extension\obj\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Extension\obj\Release\Extension.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Extension\bin\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Extension\bin\Release\Extension.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Extension\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Extension\obj\Release\Extension.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Extension\obj\Release\Extension.pdb
+C:\Users\Chyld\Documents\Elysium\Extension\bin\Release\Extension.dll
+C:\Users\Chyld\Documents\Elysium\Extension\bin\Release\Extension.pdb
+C:\Users\Chyld\Documents\Elysium\Extension\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chyld\Documents\Elysium\Extension\obj\Release\Extension.dll
+C:\Users\Chyld\Documents\Elysium\Extension\obj\Release\Extension.pdb

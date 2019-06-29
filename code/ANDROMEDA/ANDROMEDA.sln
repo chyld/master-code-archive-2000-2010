@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries", "Libraries\Libraries.csproj", "{A920E4AB-F850-459D-AC08-173507556CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlParser", "HtmlParser\HtmlParser.csproj", "{1722FE69-E9AC-4C93-8ECA-069D2CC0607F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{03BD3263-1F68-45D8-A003-6F225BB01DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOffice", "BoxOffice\BoxOffice.csproj", "{68446EFA-B0A6-466E-98C7-CAF7E91D9530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{F206312F-483E-4E50-9B5B-5B4C8F132F3B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68446EFA-B0A6-466E-98C7-CAF7E91D9530} = {68446EFA-B0A6-466E-98C7-CAF7E91D9530}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C375026C-6BE3-49FA-B9F1-450EF4BC1AE2}"
+	ProjectSection(SolutionItems) = preProject
+		ANDROMEDA.vsmdi = ANDROMEDA.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ANDROMEDA.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A920E4AB-F850-459D-AC08-173507556CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A920E4AB-F850-459D-AC08-173507556CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1722FE69-E9AC-4C93-8ECA-069D2CC0607F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1722FE69-E9AC-4C93-8ECA-069D2CC0607F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1722FE69-E9AC-4C93-8ECA-069D2CC0607F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1722FE69-E9AC-4C93-8ECA-069D2CC0607F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BD3263-1F68-45D8-A003-6F225BB01DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BD3263-1F68-45D8-A003-6F225BB01DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BD3263-1F68-45D8-A003-6F225BB01DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BD3263-1F68-45D8-A003-6F225BB01DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68446EFA-B0A6-466E-98C7-CAF7E91D9530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68446EFA-B0A6-466E-98C7-CAF7E91D9530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68446EFA-B0A6-466E-98C7-CAF7E91D9530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68446EFA-B0A6-466E-98C7-CAF7E91D9530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F206312F-483E-4E50-9B5B-5B4C8F132F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F206312F-483E-4E50-9B5B-5B4C8F132F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F206312F-483E-4E50-9B5B-5B4C8F132F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F206312F-483E-4E50-9B5B-5B4C8F132F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

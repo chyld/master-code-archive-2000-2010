@@ -1,0 +1,16 @@
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Debug\Data.dll.config
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Debug\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Debug\Data.pdb
+C:\Users\Chyld\Documents\Elysium\Data\bin\Debug\Data.dll
+C:\Users\Chyld\Documents\Elysium\Data\bin\Debug\Data.pdb
+C:\Users\Chyld\Documents\Elysium\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chyld\Documents\Elysium\Data\obj\Debug\Data.dll
+C:\Users\Chyld\Documents\Elysium\Data\obj\Debug\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\bin\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\bin\Debug\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Debug\Data.pdb

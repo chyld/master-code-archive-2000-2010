@@ -1,0 +1,7 @@
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\bin\Debug\Alias.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\bin\Debug\Alias.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\obj\Debug\Alias.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\obj\Debug\Alias.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\bin\Debug\KellermanEncryptionLibrary.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Apocrypha\Alias\bin\Debug\KellermanEncryptionLibrary.xml

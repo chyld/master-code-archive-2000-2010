@@ -1,0 +1,10 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Enigma\bin\Debug\Enigma.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Enigma\bin\Debug\Enigma.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Enigma\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Enigma\obj\Debug\Enigma.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Enigma\obj\Debug\Enigma.pdb
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Enigma\bin\Debug\Enigma.dll
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Enigma\bin\Debug\Enigma.pdb
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Enigma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Enigma\obj\Debug\Enigma.dll
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Enigma\obj\Debug\Enigma.pdb

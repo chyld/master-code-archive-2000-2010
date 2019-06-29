@@ -1,0 +1,42 @@
+[Code Checklist]
+
+Editor:
+    Setup file types to automatically open by proper application, Example: .pdf by Adobe Reader
+    
+Naming Convention:
+    Field name start with m_ , Example: m_PrimaryId
+    Parameters start with p_ , Example: p_Filename
+    Local variables are Camel case, Example: returnValue
+    Properties/Methods are Pascal case, Example: SystemPassword
+    Don't use 'this', use m_XYZ instead
+    
+Spacing/Tabs:
+    Insert spaces instead of tabs
+    Use 4 spaces per tab indention
+    
+Exception Handling:
+    Use custom exception classes derived from ApplicationException
+    Exceptions are expensive, use only when necessary
+    When re-throwing, send previous exception data
+    Thrown an exception, versus returning a Boolean, so more detailed info is available to the caller
+    Only catch an exception for cleanup purposes or to shield end user from error message
+
+Code Folding:
+    Use #region/#endregion around similar blocks of code
+
+Build Settings:
+    Use debug during development
+    Do release build of binaries during release
+    Change web.config, if necessary, to not use debugging
+
+Type Names:
+    Use the full type name, instead of abbreviation, Example: use Boolean, not bool
+
+Comments:
+    Include comments in code, just not too much
+    
+Project Settings:
+    Add a Documentation project to each solution
+
+General:
+    Make code as small as possible - the fewest moving parts

@@ -1,0 +1,10 @@
+﻿using System;
+
+namespace VikingOne.Common
+{
+    public class Coordinate
+    {
+        public Int32 X { get; set; }
+        public Int32 Y { get; set; }
+    }
+}

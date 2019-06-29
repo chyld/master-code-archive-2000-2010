@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="809b1867-35be-44e3-b4aa-61391111e735" name="cmedford@APOLLO 2008-11-17 21:17:05" runUser="CINGULARITI\cmedford" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="525a89eb-661c-46ca-8f01-8d2aaac3a474">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\TestResults\cmedford_APOLLO 2008-11-17 21_17_05" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="APOLLO" outcome="Error" timestamp="2008-11-17T21:18:08.7395803-06:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2008-11-17T21:17:05.2165803-06:00" queuing="2008-11-17T21:17:06.4215803-06:00" start="2008-11-17T21:17:06.5845803-06:00" finish="2008-11-17T21:18:08.7515803-06:00" />
+  <TestDefinitions>
+    <UnitTest name="TestBasicOperation" storage="c:\users\cmedford\documents\visual studio 2008\projects\blockbuster\externaltesting\bin\debug\externaltesting.dll" id="2e125ced-eec6-5c25-cd95-87bc6e45c46c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\ExternalTesting\bin\Debug\ExternalTesting.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Cingulariti.Blockbuster.ExternalTesting.WebServiceTest, ExternalTesting" name="TestBasicOperation" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2e125ced-eec6-5c25-cd95-87bc6e45c46c" executionId="c575b88e-8c00-4eb9-945b-89f2f5414cfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c575b88e-8c00-4eb9-945b-89f2f5414cfc" testId="2e125ced-eec6-5c25-cd95-87bc6e45c46c" testName="TestBasicOperation" computerName="APOLLO" duration="00:01:02.0590000" startTime="2008-11-17T21:17:06.6925803-06:00" endTime="2008-11-17T21:18:08.7515803-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,9 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\Business.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\Business.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\HtmlParser.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\HtmlAgilityPack.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\HtmlAgilityPack.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\bin\Release\HtmlParser.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\obj\Release\Business.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Business\obj\Release\Business.pdb

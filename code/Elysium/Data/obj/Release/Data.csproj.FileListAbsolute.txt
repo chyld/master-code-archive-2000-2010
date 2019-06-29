@@ -1,0 +1,21 @@
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Release\Data.dll.config
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\bin\Release\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Data\obj\Release\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\bin\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\bin\Release\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Data\obj\Release\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Data\bin\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Data\bin\Release\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Data\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Data\obj\Release\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.20080522.1525\Elysium\Data\obj\Release\Data.pdb
+C:\Users\Chyld\Documents\Elysium\Data\bin\Release\Data.dll
+C:\Users\Chyld\Documents\Elysium\Data\bin\Release\Data.pdb
+C:\Users\Chyld\Documents\Elysium\Data\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chyld\Documents\Elysium\Data\obj\Release\Data.dll
+C:\Users\Chyld\Documents\Elysium\Data\obj\Release\Data.pdb

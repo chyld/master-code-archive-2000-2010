@@ -1,0 +1,40 @@
+<asp:Menu runat="server" StaticBottomSeparatorImageUrl="/G2/Application/Images/MenuSeparator.gif" DynamicVerticalOffset="20" DynamicHorizontalOffset="10" StaticEnableDefaultPopOutImage="False">
+    <StaticMenuItemStyle ForeColor="#355a10" ItemSpacing="20px" HorizontalPadding="10px" />
+    <StaticHoverStyle ForeColor="#ffffff" />
+    <StaticSelectedStyle ForeColor="#ffffff" />
+    <DynamicMenuItemStyle ItemSpacing="3px" BackColor="#669933" BorderStyle="Solid" BorderWidth="1px" BorderColor="#447711" ForeColor="#ffffff" HorizontalPadding="5px" VerticalPadding="5px" />
+    <DynamicHoverStyle BackColor="#ffffff" ForeColor="#447711" />
+    <DynamicSelectedStyle BackColor="#d04234" ForeColor="#ffffff" />
+</asp:Menu>
+
+<asp:GridView runat="server" CssClass="fullWidth" GridLines="None" CellSpacing="0" CellPadding="15">
+    <RowStyle HorizontalAlign="Center" ForeColor="#ff9b04" BackColor="#ffffff" />
+    <AlternatingRowStyle HorizontalAlign="Center" ForeColor="#235b9c" BackColor="#dddddd" />
+    <PagerStyle BackColor="#ffffff" HorizontalAlign="Right" />
+    <HeaderStyle CssClass="gridview-HeaderStyle" />
+</asp:GridView>
+
+<asp:DetailsView runat="server" CssClass="fullWidth" GridLines="None" CellSpacing="0" CellPadding="20">
+    <RowStyle HorizontalAlign="Left" ForeColor="#235b9c" BackColor="#dddddd" />
+    <AlternatingRowStyle HorizontalAlign="Left" ForeColor="#ff9b04" BackColor="#ffffff" />
+    <CommandRowStyle HorizontalAlign="Left" ForeColor="#000000" BackColor="#ffffff" />
+    <FieldHeaderStyle CssClass="detailsview-FieldHeaderStyle" />
+</asp:DetailsView>
+
+<asp:Calendar runat="server" NextPrevFormat="ShortMonth">
+    <NextPrevStyle ForeColor="#336699" BackColor="#ffffff" />
+    <SelectedDayStyle ForeColor="#ffffff" BackColor="#235b9c" />
+    <TitleStyle ForeColor="#669933" BackColor="#ffffff" Font-Bold="True" />
+    <TodayDayStyle ForeColor="#ffffff" BackColor="#5397d5" />
+    <WeekendDayStyle ForeColor="#ff9b04" BackColor="#ffffff" />
+</asp:Calendar>
+
+
+<asp:TreeView CssClass="treeview-Root" RootNodeStyle-ImageUrl="/G2/Application/Images/Group.png" LeafNodeStyle-ImageUrl="/G2/Application/Images/NormalUser.png" runat="server" />
+<asp:TreeView SkinId="ReceiveMail" CssClass="treeview-Root" RootNodeStyle-ImageUrl="/G2/Application/Images/Folder.png" LeafNodeStyle-ImageUrl="/G2/Application/Images/Email.png" runat="server" />
+
+<asp:ChangePassword runat="server">
+    <LabelStyle HorizontalAlign="Left" />
+</asp:ChangePassword>
+
+<asp:Label runat="server" SkinID="StatusCode" CssClass="label-statuscode-Root" ForeColor="#cc0000" BackColor="#dedede" BorderColor="#cdcdcd" BorderWidth="1px" BorderStyle="Solid" />

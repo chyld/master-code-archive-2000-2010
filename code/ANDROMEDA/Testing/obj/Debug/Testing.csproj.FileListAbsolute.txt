@@ -1,0 +1,6 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\bin\Debug\Testing.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\bin\Debug\Testing.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\obj\Debug\Testing.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\obj\Debug\Testing.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\Testing\bin\Debug\Testing.dll.config

@@ -1,0 +1,14 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\bin\Revelation.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\bin\Revelation.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\obj\Debug\Revelation.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\obj\Debug\Revelation.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\bin\Enigma.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\Chamaeleon\Revelation\bin\Enigma.pdb
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\bin\Revelation.dll
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\bin\Revelation.pdb
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\bin\Enigma.dll
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\bin\Enigma.pdb
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\obj\Debug\Revelation.dll
+C:\Users\cmedford\Desktop\Chamaeleon\Chamaeleon\Revelation\obj\Debug\Revelation.pdb

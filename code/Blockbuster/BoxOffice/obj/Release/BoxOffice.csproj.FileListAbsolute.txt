@@ -1,0 +1,11 @@
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\BoxOffice.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\BoxOffice.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\Business.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\HtmlAgilityPack.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\HtmlParser.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\HtmlAgilityPack.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\Business.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\bin\HtmlParser.pdb
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\obj\Release\BoxOffice.dll
+C:\Users\cmedford\Documents\Visual Studio 2008\Projects\Blockbuster\BoxOffice\obj\Release\BoxOffice.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="19376587-97b9-4641-97ed-0c187efc4b82" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://cingulariti.net:88/BoxOffice/BoxOffice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BoxOffice.xsd" MetadataType="Schema" ID="9dbbc181-d8fb-452a-aff5-7ec0522b5cf2" SourceId="1" SourceUrl="http://cingulariti.net:88/BoxOffice/BoxOffice.svc?xsd=xsd0" />
+    <MetadataFile FileName="BoxOffice.disco" MetadataType="Disco" ID="c3c23a66-8452-440a-a104-ceeb3aa218e5" SourceId="1" SourceUrl="http://cingulariti.net:88/BoxOffice/BoxOffice.svc?disco" />
+    <MetadataFile FileName="BoxOffice1.xsd" MetadataType="Schema" ID="37a74f8d-219f-48ed-abf1-bf84ae90e2eb" SourceId="1" SourceUrl="http://cingulariti.net:88/BoxOffice/BoxOffice.svc?xsd=xsd2" />
+    <MetadataFile FileName="BoxOffice2.xsd" MetadataType="Schema" ID="55811782-df9b-4ecd-bcbc-4240f40c34cc" SourceId="1" SourceUrl="http://cingulariti.net:88/BoxOffice/BoxOffice.svc?xsd=xsd1" />
+    <MetadataFile FileName="BoxOffice.wsdl" MetadataType="Wsdl" ID="527110c1-df1b-43e9-a8d6-1fef0c57d703" SourceId="1" SourceUrl="http://cingulariti.net:88/BoxOffice/BoxOffice.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

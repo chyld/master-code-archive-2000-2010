@@ -1,0 +1,11 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\BoxOffice.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\BoxOffice.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\Business.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\HtmlAgilityPack.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\HtmlParser.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\HtmlAgilityPack.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\Business.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\bin\HtmlParser.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\obj\Release\BoxOffice.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\BoxOffice\obj\Release\BoxOffice.pdb

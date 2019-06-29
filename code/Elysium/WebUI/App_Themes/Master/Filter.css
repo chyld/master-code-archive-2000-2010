@@ -1,0 +1,22 @@
+﻿.panelheader
+{
+}
+
+.panelfilter
+{
+	width: 750px;
+	height: 0px;   
+    overflow: hidden;
+}
+
+.filterbox
+{
+	float: left;
+	width: 150px;
+	padding: 5px 10px 5px 0px;
+}
+
+.filterbox span
+{
+	padding-left: 10px;
+}

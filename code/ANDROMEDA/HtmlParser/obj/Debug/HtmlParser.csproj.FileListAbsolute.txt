@@ -1,0 +1,7 @@
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\bin\Debug\HtmlParser.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\obj\Debug\HtmlParser.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\obj\Debug\HtmlParser.pdb
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\bin\Debug\HtmlAgilityPack.dll
+C:\Documents and Settings\chyld_medford\My Documents\Visual Studio 2008\Projects\ANDROMEDA\HtmlParser\bin\Debug\HtmlAgilityPack.pdb

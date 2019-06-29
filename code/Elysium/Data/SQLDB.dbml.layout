@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SQLDB">
+  <DataContextMoniker Name="/ElysiumDB" />
+  <nestedChildShapes>
+    <classShape Id="7a5bb655-bf39-4c34-b1b0-46aacb522e07" absoluteBounds="0.5, 0.5, 2, 1.26050048828125">
+      <DataClassMoniker Name="/ElysiumDB/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dffc225d-c386-49b0-86b0-7ea8688f82b2" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e0ef0f91-a5b2-47a5-b977-6a2c1ced2d5a" absoluteBounds="4.125, 0.75, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/ElysiumDB/Facade" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34a94c63-c778-4e42-b326-8b37c5ccd233" absoluteBounds="4.14, 1.21, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="00111a31-5172-4701-bbea-de00ec1ca85b" absoluteBounds="1.375, 3, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/ElysiumDB/Section" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43187437-0bb5-459c-8ff3-0fc89258506f" absoluteBounds="1.3900000000000001, 3.46, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 2.32761881510417); (2.96875 : 2.32761881510417); (2.96875 : 3)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ElysiumDB/Facade/Elysium_Style_Elysium_Section" />
+      <nodes>
+        <classShapeMoniker Id="e0ef0f91-a5b2-47a5-b977-6a2c1ced2d5a" />
+        <classShapeMoniker Id="00111a31-5172-4701-bbea-de00ec1ca85b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.9375 : 1.76050048828125); (1.9375 : 3)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ElysiumDB/Customer/Elysium_User_Elysium_Section" />
+      <nodes>
+        <classShapeMoniker Id="7a5bb655-bf39-4c34-b1b0-46aacb522e07" />
+        <classShapeMoniker Id="00111a31-5172-4701-bbea-de00ec1ca85b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2dbcf73e-5b21-402f-a2f6-29255fb150e5" absoluteBounds="5, 3.875, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/ElysiumDB/Notebook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5fd37404-93e9-4077-bd49-bcc35f93307a" absoluteBounds="5.015, 4.335, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(0.90625 : 1.76050048828125); (0.90625 : 4.89359781901042); (2.16666666666667 : 4.89359781901042 : JumpStart); (2.33333333333333 : 4.89359781901042 : JumpEnd); (4.44791666666667 : 4.89359781901042 : JumpStart); (4.61458333333333 : 4.89359781901042 : JumpEnd); (5 : 4.89359781901042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ElysiumDB/Customer/Elysium_User_Elysium_Notebook" />
+      <nodes>
+        <classShapeMoniker Id="7a5bb655-bf39-4c34-b1b0-46aacb522e07" />
+        <classShapeMoniker Id="2dbcf73e-5b21-402f-a2f6-29255fb150e5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b324f7a2-decf-41b1-b970-8015afbe6f9a" absoluteBounds="3.875, 6.25, 2, 1.0961531575520833">
+      <DataClassMoniker Name="/ElysiumDB/Font" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02ae638a-e1b2-44b2-99b0-73e6842c28da" absoluteBounds="3.89, 6.71, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.53125 : 6.25); (4.53125 : 2.83223714192708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ElysiumDB/Font/Elysium_Font_Elysium_Style" />
+      <nodes>
+        <classShapeMoniker Id="b324f7a2-decf-41b1-b970-8015afbe6f9a" />
+        <classShapeMoniker Id="e0ef0f91-a5b2-47a5-b977-6a2c1ced2d5a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2c49e091-d1aa-450d-a113-c104b8a0a9f1" absoluteBounds="1.125, 6.125, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/ElysiumDB/Agenda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bb43a545-cddd-41d0-af16-e28986875b34" absoluteBounds="1.1400000000000001, 6.585, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.25 : 4.42484781901042); (2.25 : 6.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ElysiumDB/Section/Elysium_Section_Elysium_Calendar" />
+      <nodes>
+        <classShapeMoniker Id="00111a31-5172-4701-bbea-de00ec1ca85b" />
+        <classShapeMoniker Id="2c49e091-d1aa-450d-a113-c104b8a0a9f1" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

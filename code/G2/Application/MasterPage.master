@@ -1,0 +1,29 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>MasterPage</title>
+</head>
+<body>
+    <form id="formMasterPage" runat="server">
+    <div id="divHeader">
+        <img src="Images/Header.jpg" />
+    </div>
+    <div id="divMenu">
+        <asp:Menu ID="menuMasterPage" runat="server" DataSourceID="sitemapdatasourceMasterPage" Orientation="Horizontal">
+        </asp:Menu>
+        <asp:SiteMapDataSource ID="sitemapdatasourceMasterPage" runat="server" ShowStartingNode="false" />
+    </div>
+    <div id="divContent">
+        <asp:contentplaceholder id="contentplaceholderMasterPage" runat="server">
+        </asp:contentplaceholder>
+    </div>
+    <div id="divFooter">
+    </div>
+    <asp:LoginStatus ID="loginstatusMasterPage" runat="server" LogoutText="" />
+    <div id="divUsername">::&nbsp;<%= Session["UserName"].ToString() %>&nbsp;::</div>
+    </form>
+</body>
+</html>

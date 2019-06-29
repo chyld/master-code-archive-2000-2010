@@ -1,0 +1,20 @@
+﻿.login td
+{
+	padding: 0px 25px 10px 0px;
+}
+
+.login td input[type="text"]
+{
+	border: dashed 1px #008000;
+	color: #363636;
+	width: 200px;
+	padding: 3px;
+}
+
+.login td input[type="password"]
+{
+	border: dashed 1px #008000;
+	color: #C00000;
+	width: 200px;
+	padding: 3px;
+}

@@ -1,0 +1,70 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\Chyld\Desktop\Scribe\">
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="Login.aspx" publishTime="10/20/2007 1:15:06 PM" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/Common.dll" publishTime="10/20/2007 2:29:06 PM" />
+    <file relUrl="Web.config" publishTime="10/20/2007 2:07:39 PM" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/BLL.pdb" publishTime="10/20/2007 2:29:07 PM" />
+    <file relUrl="bin/Scribe.dll" publishTime="10/20/2007 2:29:07 PM" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/DAL.pdb" publishTime="10/20/2007 2:29:07 PM" />
+    <file relUrl="bin/DAL.dll" publishTime="10/20/2007 2:29:07 PM" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/KellermanEncryptionLibrary.xml" publishTime="7/26/2007 8:35:21 AM" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/BLL.dll" publishTime="10/20/2007 2:29:07 PM" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/Common.pdb" publishTime="10/20/2007 2:29:06 PM" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="Default.aspx" publishTime="10/19/2007 11:51:54 AM" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/KellermanEncryptionLibrary.dll" publishTime="7/26/2007 8:45:16 AM" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="App_Themes/Scribe/Stylesheet.css" publishTime="10/20/2007 1:13:38 PM" />
+    <file relUrl="bin/Scribe.pdb" publishTime="10/20/2007 2:29:07 PM" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Chyld\Desktop\">
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="Login.aspx" publishTime="10/20/2007 1:15:06 PM" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/Common.dll" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="Web.config" publishTime="10/20/2007 2:07:39 PM" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/BLL.pdb" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="bin/Scribe.dll" publishTime="10/20/2007 2:25:38 PM" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/DAL.pdb" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="bin/DAL.dll" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/KellermanEncryptionLibrary.xml" publishTime="7/26/2007 8:35:21 AM" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="bin/BLL.dll" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/Common.pdb" publishTime="10/20/2007 2:25:37 PM" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="Default.aspx" publishTime="10/19/2007 11:51:54 AM" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="6/18/2007 4:19:08 PM" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:12 PM" />
+    <file relUrl="bin/KellermanEncryptionLibrary.dll" publishTime="7/26/2007 8:45:16 AM" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="6/18/2007 4:19:10 PM" />
+    <file relUrl="App_Themes/Scribe/Stylesheet.css" publishTime="10/20/2007 1:13:38 PM" />
+    <file relUrl="bin/Scribe.pdb" publishTime="10/20/2007 2:25:38 PM" />
+  </publishTarget>
+</publishData>

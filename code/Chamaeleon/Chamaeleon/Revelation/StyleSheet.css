@@ -1,0 +1,35 @@
+﻿*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    background-color: #545342;
+}
+
+input[type="text"]
+{
+    width: 100px;
+    padding: 5px;
+    letter-spacing: 1px;
+    color: #9E9C7B;
+    background-color: #D3D1A4;
+    border: solid 1px #000000;
+    font: normal normal normal 9px/11px 'Consolas', 'Courier New';
+}
+
+input[type="image"]
+{
+    margin-bottom: -10px;
+}
+
+#main
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}

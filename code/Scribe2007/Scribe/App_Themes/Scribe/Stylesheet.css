@@ -1,0 +1,146 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #EFECCA;
+    color: #000000;
+    font-family: Tahoma, Verdana, Sans-Serif;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+img
+{
+	border-width: 0px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+
+.notedata, .notetags, .notefiles
+{
+    font-family: Tahoma, Verdana, Sans-Serif;
+    font-size: 11px;
+    line-height: 15px;
+    display: block;
+    width: 100%;
+}
+
+.notedata
+{
+    height: 300px;
+}
+
+#buttonSubmit
+{
+    margin-top: 25px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+
+#master
+{
+    width: 500px;
+    padding-left: 100px;
+}
+
+#header
+{
+    color: #EFECCA;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-left: 25px;
+    letter-spacing: 7px;
+    background-color: #046380;
+    border-bottom: 5px solid #A7A37E;
+    margin-bottom: 25px;
+}
+
+#content
+{
+}
+
+#in
+{
+}
+
+#out
+{
+}
+
+#footer
+{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    background-color: #A7A37E;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+
+.note
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 1px solid #A7A37E;
+}
+
+.date
+{
+    font-style: italic;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.date, .data, .tags, .files
+{
+    padding-bottom: 5px;
+}
+
+.tag, .file
+{
+    font-variant: small-caps;
+    letter-spacing: 1px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+
+.passwordcontainer
+{
+	margin: 10px;
+	padding: 10px;
+}
+
+.passwordbox
+{
+	width: 150px;
+	height: 15px;
+	color: #FFFFFF;
+	border: dashed 1px #A7A37E;
+}
+
+#buttonPasswordAuthenticate
+{
+	width: 150px;
+	height: 30px;
+	color: #A7A37E;
+	border: double 3px #A7A37E;
+	background-color: #EFECCA;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */

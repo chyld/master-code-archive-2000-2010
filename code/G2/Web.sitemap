@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="empty"  description="">
+        <siteMapNode url="" title="Calendar Views"  description="">
+            <siteMapNode url="~/Application/CalendarHybrid.aspx" title="Hybrid Display"  description="Hybrid Display" />
+            <siteMapNode url="~/Application/CalendarMonth.aspx" title="Month Display"  description="Month Display" />
+        </siteMapNode>
+        <siteMapNode url="" title="Event Tasks"  description="">
+            <siteMapNode url="~/Application/CreateEvent.aspx" title="Create New Event"  description="Create New Event" />
+        </siteMapNode>
+        <siteMapNode url="" title="Messaging"  description="">
+            <siteMapNode url="~/Application/Messaging.aspx" title="Send &amp; Receive Messages"  description="Send &amp; Receive Messages" />
+        </siteMapNode>
+        <siteMapNode url="" title="Contacts"  description="">
+            <siteMapNode url="~/Application/Contacts.aspx" title="Contacts Directory"  description="Contacts Directory" />
+        </siteMapNode>
+        <siteMapNode url="" title="Administration"  description="">
+            <siteMapNode url="~/Application/GroupAdmin.aspx" title="Group Administration"  description="Group Administration" />
+            <siteMapNode url="~/Application/ContactAdmin.aspx" title="Contact Administration"  description="Contact Administration" />
+            <siteMapNode url="~/Application/ChangePassword.aspx" title="Change Password"  description="Change Password" />
+        </siteMapNode>
+        <siteMapNode url="javascript:__doPostBack('ctl00$loginstatusMasterPage$ctl00','')" title="Logout"  description="Logout of Application" />
+    </siteMapNode>
+</siteMap>
+
+
+
+

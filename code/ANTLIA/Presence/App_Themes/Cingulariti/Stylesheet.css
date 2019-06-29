@@ -1,0 +1,49 @@
+﻿*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+}
+
+.portfolio
+{
+    text-align: center;
+    background-color: #F6F498;
+}
+
+.portfoliomovies
+{
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+.moviecontrol
+{
+    border: dashed 1px #cccccc;
+    background-color: #ffffff;
+}
+
+.movietitle
+{
+    border-bottom: double 3px #cccccc;
+    padding: 25px 0px 25px 0px;
+    text-align: center;
+    font: normal small-caps normal 13px/15px Trebuchet MS;
+}
+
+.movieslider
+{
+    width: 28px;
+    height: 20px;
+}
+
+.moviecopyright
+{
+    font: italic normal normal 11px/13px Trebuchet MS;
+    padding-top: 15px;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Cingulariti.ANDROMEDA.Business" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Cingulariti.ANDROMEDA.Business" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="BoxOfficeDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Movies" nillable="true" type="tns:ArrayOfMovieDto" />
+      <xs:element minOccurs="0" name="ResultsDate" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BoxOfficeDto" nillable="true" type="tns:BoxOfficeDto" />
+  <xs:complexType name="ArrayOfMovieDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MovieDto" nillable="true" type="tns:MovieDto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfMovieDto" nillable="true" type="tns:ArrayOfMovieDto" />
+  <xs:complexType name="MovieDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Average" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DailyGross" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DayNumber" type="xs:int" />
+      <xs:element minOccurs="0" name="PercentChange" type="xs:double" />
+      <xs:element minOccurs="0" name="Rank" type="xs:int" />
+      <xs:element minOccurs="0" name="Studio" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Theaters" type="xs:int" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalGross" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MovieDto" nillable="true" type="tns:MovieDto" />
+</xs:schema>

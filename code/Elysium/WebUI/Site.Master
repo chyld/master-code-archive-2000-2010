@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Chyld.Elysium.WebUI.Site" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="act" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="headElysium" runat="server">
+    <title>Elysium</title>
+    <link rel="shortcut icon" href="Images/favicon.ico" />
+</head>
+<body>
+    <form id="formElysium" runat="server">
+        <act:ToolkitScriptManager ID="toolkitscriptmanager" runat="server" />
+        <div class="elysium">
+            <div class="header"><asp:Image ID="imageLogo" runat="server" ImageUrl="~/Images/logo.png" /></div>
+            <div class="nav"><asp:ContentPlaceHolder ID="contentplaceholderNavigation" runat="server" /></div>
+            <div class="main"><asp:ContentPlaceHolder ID="contentplaceholderMain" runat="server" /></div>
+            <div class="footer">(c) 2008 Chyld Medford</div>
+        </div>
+    </form>
+</body>
+</html>

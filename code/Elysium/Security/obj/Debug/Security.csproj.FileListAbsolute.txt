@@ -1,0 +1,21 @@
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\bin\Debug\Security.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\bin\Debug\Security.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\bin\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\bin\Debug\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\obj\Debug\Security.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium\Security\obj\Debug\Security.pdb
+C:\Users\Chyld\Documents\Elysium\Security\bin\Debug\Security.dll
+C:\Users\Chyld\Documents\Elysium\Security\bin\Debug\Security.pdb
+C:\Users\Chyld\Documents\Elysium\Security\bin\Debug\Data.dll
+C:\Users\Chyld\Documents\Elysium\Security\bin\Debug\Data.pdb
+C:\Users\Chyld\Documents\Elysium\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chyld\Documents\Elysium\Security\obj\Debug\Security.dll
+C:\Users\Chyld\Documents\Elysium\Security\obj\Debug\Security.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\bin\Debug\Security.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\bin\Debug\Security.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\bin\Debug\Data.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\bin\Debug\Data.pdb
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\obj\Debug\Security.dll
+C:\Documents and Settings\chyld_medford\Desktop\Elysium.v2008.05.21\Elysium\Security\obj\Debug\Security.pdb

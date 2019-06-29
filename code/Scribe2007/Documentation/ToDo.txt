@@ -1,0 +1,7 @@
+- Add connectionstring to web.config
+- Add automatic file delete for old files
+- Encrypt web.config, connection string settings
+- Don't upload source code to website
+- Maybe redirect after error to error page
+- Fix regex on tags (commas)
+- Files with spaces are not deleting

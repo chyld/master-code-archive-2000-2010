@@ -1,0 +1,14 @@
+﻿.admin td
+{
+	vertical-align: top;
+	padding: 3px;
+}
+
+.admin input[type="text"], .admin select
+{
+	width: 150px;
+}
+
+.style td
+{
+}

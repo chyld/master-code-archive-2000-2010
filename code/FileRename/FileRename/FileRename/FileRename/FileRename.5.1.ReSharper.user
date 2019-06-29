@@ -1,0 +1,61 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="0" />
+      <Item value="textboxNewDate" priority="1" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="null" priority="2" />
+      <Item value="fileIn" priority="0" />
+      <Item value="newdate" priority="0" />
+      <Item value="fileInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="1" />
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="LastWriteTime" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="1751" fromTop="11" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="1618" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="1592" fromTop="7" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="1159" fromTop="8" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="919" fromTop="5" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="863" fromTop="4" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="1476" fromTop="8" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="1603" fromTop="23" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="1859" fromTop="14" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="2230" fromTop="22" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="2493" fromTop="28" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml.cs" caret="2493" fromTop="28" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="1343" fromTop="18" />
+      <File id="741D1981-B94A-4ED5-BC64-9A2B4780D932/f:MainWindow.xaml" caret="210" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
